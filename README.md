@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer | Full-Stack Developer
 
-Software Engineer skilled in **C#, .NET, ASP.NET Web API, and the MERN stack**. Passionate about building scalable, efficient, and user-focused web applications.
+Software Engineer skilled in **C#, .NET, ASP.NET Web API, Laravel, and the MERN stack**. Passionate about building scalable, efficient, and user-focused web applications.
 
 ---
 
@@ -18,6 +18,8 @@ Software Engineer skilled in **C#, .NET, ASP.NET Web API, and the MERN stack**. 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
@@ -38,8 +40,8 @@ Software Engineer skilled in **C#, .NET, ASP.NET Web API, and the MERN stack**. 
 
 - 🌐 Build modern web applications
 - ⚙️ Develop RESTful APIs
-- 🗄️ Work with SQL and NoSQL databases
 - ⚛️ Build responsive React applications
+- 🗄️ Work with SQL and NoSQL databases
 - 🔧 Develop enterprise software solutions
 - 🚀 Continuously learn and improve
 
@@ -47,14 +49,15 @@ Software Engineer skilled in **C#, .NET, ASP.NET Web API, and the MERN stack**. 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/md-shafi-reza/)                    
-                      
-  )
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShafiReza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shafi-reza/)
 
----
 
 
----
+---                                                                                
+  
+  
+  
+  
 
 ⭐ Thanks for visiting my profile!
